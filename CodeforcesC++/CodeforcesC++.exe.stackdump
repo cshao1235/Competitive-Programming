@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6117A1C7
+eax=00000000 ebx=0022CBFC ecx=00000002 edx=0000003B esi=0022B83D edi=00000003
+ebp=611B2F70 esp=0022B670 program=C:\Users\Christopher\workspace\CodeforcesC++\Debug\CodeforcesC++.exe, pid 5076, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+End of stack trace
